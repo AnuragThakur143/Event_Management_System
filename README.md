@@ -1,1 +1,3 @@
 # Event_Management_System
+
+Testing MiniProject in Java...
